@@ -1,0 +1,9 @@
+2022-07-07 02:49:41,874 [4] INFO  App  
+ Log System Initialized 
+ 
+2022-07-07 02:49:41,992 [4] INFO  App  
+ Request: {"partnerkey":"FAKEGOOGLE","partnerrefno":"FG-00001","totalamount":6,"items":[{"partneritemref":"i-00001","name":"Pen","qty":2,"unitprice":2},{"partneritemref":"i-00002","name":"Ruler","qty":2,"unitprice":1}],"timestamp":"2022-06.0000Z","sig":"24XYSmvKGH9I9Y5FLvSsId2MPtjkvog7U5JLhE3m30A=","partnerpassword":"RkFLRVBBU1NXT1JEMTIzNA=="} 
+ 
+2022-07-07 02:49:44,944 [4] INFO  App  
+ Response: {"success":0,"errormessage":"Invalid TimeStamp."} 
+ 

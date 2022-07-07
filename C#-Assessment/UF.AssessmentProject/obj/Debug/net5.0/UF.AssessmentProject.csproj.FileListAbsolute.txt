@@ -1,0 +1,82 @@
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfoInputs.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfo.cs
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CoreCompileInputs.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\appsettings.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.exe
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.deps.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.dev.json
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\ref\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.pdb
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.Manifest.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.xml
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\scopedcss\bundle\UF.AssessmentProject.styles.css
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.RazorTargetAssemblyInfo.cache
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CopyComplete
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\ref\UF.AssessmentProject.dll
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.pdb
+C:\Users\UF-TAMMY\Desktop\Others\Test project\AssessmentProject\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.genruntimeconfig.cache
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\appsettings.Development.json
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\appsettings.json
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.exe
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.deps.json
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.json
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.runtimeconfig.dev.json
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\ref\UF.AssessmentProject.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\UF.AssessmentProject.pdb
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Annotations.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfoInputs.cache
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.AssemblyInfo.cs
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CoreCompileInputs.cache
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.Manifest.cache
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\staticwebassets\UF.AssessmentProject.StaticWebAssets.xml
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\scopedcss\bundle\UF.AssessmentProject.styles.css
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.RazorTargetAssemblyInfo.cache
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.csproj.CopyComplete
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.dll
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\ref\UF.AssessmentProject.dll
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.pdb
+E:\New folder\New folder\UF.AssessmentProject\obj\Debug\net5.0\UF.AssessmentProject.genruntimeconfig.cache
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\log4net.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\log4net.config
+E:\New folder\New folder\UF.AssessmentProject\bin\Debug\net5.0\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
